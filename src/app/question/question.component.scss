@@ -1,0 +1,14 @@
+.card{
+    max-width: 90rem;
+}
+
+li{
+    list-style-type: none;
+    cursor: pointer;
+    margin: 10px 0;
+
+}
+
+li .card:hover{
+    border: 2px solid blue;
+}
